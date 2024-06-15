@@ -1,4 +1,4 @@
-# `modernized:` architectures. infrastructures. applications. 
+# `modernized` architectures. infrastructures. applications. 
 ![dev2deploy-cover-1500x500](https://github.com/dev2deploy/dev2deploy/assets/170257998/a50ca596-ef5f-4963-8191-5edace6a0105)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev2deploy&show_icons=true&theme=ambient_gradient)
